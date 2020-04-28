@@ -1,14 +1,4 @@
-#!/bin/bash
-printf "\e[1;92m ___________________"                                                   echo "                    /"
-echo "                   /"
-echo '                  /'
-echo '                 /'
-echo "                /"
-echo '               /'
-echo '              /'
-echo '             /'
-printf "\e[1;92m            /______________\e[0m"
-echo
-read -p" <<<===========ENTER===========>>> "
-read -p "enter number : " a
-echo "= "$(( "$a" ))
+GNU nano 4.6                          MGHOL*_+=.sh
+z="
+";Oz=''\''';Tz='e[0m';Mz='/'\''';az='===>';dz='"ent';Bz='tf "';Dz=';92m';Hz='echo';Zz='>
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Fz$Fz$Fz$Gz$z$Hz$Iz$Jz$Jz$Jz$Jz$Kz$z$Hz$Lz$Jz$Jz$Jz$Jz$Mz$z$Hz>
